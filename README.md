@@ -5,7 +5,7 @@
 ![Screenshot_1648007108](https://user-images.githubusercontent.com/76983358/159620399-4a97a9b8-eddf-4d1d-9ca1-e3be7cd67237.png)
 
 + VideoInfo screen
-![Screenshot_1648007136](https://user-images.githubusercontent.com/76983358/159620411-f74933cd-f492-4850-a173-ab46c716f998.png)
+![Screenshot_1648007136 - Copy1](https://user-images.githubusercontent.com/76983358/159622007-a6eea7e1-dbb5-452d-a51b-4caa4af975b0.png)
 ![Screenshot_1648007180](https://user-images.githubusercontent.com/76983358/159620428-01a801dc-2e69-46c6-a633-2a87adac2e18.png)
 ![Screenshot_1648007242](https://user-images.githubusercontent.com/76983358/159620444-4b67234d-ad48-4536-92e0-582c20210a61.png)
 
