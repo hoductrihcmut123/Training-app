@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Squat and Walk",
+    "time": "15 seconds",
+    "thumbnail": "assets/squat1.jpg",
+    "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+  },
+  {
+    "title": "Plie Squat and Heel Raises",
+    "time": "15 seconds",
+    "thumbnail": "assets/squat2.jpg",
+    "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+  },
+  {
+    "title": "Squat Kickback",
+    "time": "60 seconds",
+    "thumbnail": "assets/squat3.jpg",
+    "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+  },
+  {
+    "title": "Squat with Side Leg Lift",
+    "time": "15 seconds",
+    "thumbnail": "assets/squat4.jpg",
+    "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
+  }
+
+]
